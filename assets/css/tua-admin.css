@@ -1,0 +1,18 @@
+/*
+ * Estilos para los campos de configuración de WordPress Temporary User Accounts.
+ */
+.tua-settings-table .tua-expiry-radio {
+	/* Parche para asegurar que los radio buttons se vean correctamente en algunas versiones de WP */
+	-webkit-appearance: radio !important;
+	appearance: radio !important;
+	-moz-appearance: radio !important;
+	border-radius: 50% !important;
+	width: 16px !important;
+	height: 16px !important;
+}
+
+.tua-options-wrapper,
+.tua_target_role_wrapper {
+	/* Oculto por defecto, controlado por JS */
+	display: none;
+}
