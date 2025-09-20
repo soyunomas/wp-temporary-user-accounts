@@ -49,10 +49,12 @@ Una vez instalado y activado, el uso es muy intuitivo:
 *(Sugerencia: Añade aquí imágenes para mostrar cómo se ve la interfaz)*
 
 **Configuración en el perfil de un usuario:**
-![Configuración de Expiración](URL_A_TU_IMAGEN_1.png)
+
+![Configuración de Expiración](assets/screenshot-1.png)
 
 **Columna de estado en la lista de usuarios:**
-![Columna de Estado](URL_A_TU_IMAGEN_2.png)
+
+![Columna de Estado](assets/screenshot-2.png)
 
 
 ## 📜 Licencia
